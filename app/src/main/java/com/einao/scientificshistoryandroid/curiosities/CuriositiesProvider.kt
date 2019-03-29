@@ -14,4 +14,7 @@ class CuriositiesProvider {
 
   fun getWarsawStudies() =
     applyStyle("She studied secretly because as a woman, you couldn’t have access to higher education")
+
+  fun getHowSheUsedToStudy() =
+    applyStyle("She studied for the day and taught at night. She survived with scarce resources and fainting from hunger")
 }
