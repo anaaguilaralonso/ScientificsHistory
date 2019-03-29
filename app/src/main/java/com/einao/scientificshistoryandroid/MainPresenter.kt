@@ -10,7 +10,7 @@ class MainPresenter(private val view: View) {
   private val curiositiesProvider = CuriositiesProvider()
 
   fun init() {
-
+    view.show(eventsProvider.getBirthDate())
   }
 
   interface View {
