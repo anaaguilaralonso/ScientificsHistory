@@ -12,4 +12,6 @@ class CuriositiesProvider {
     return styledText
   }
 
+  fun getWarsawStudies() =
+    applyStyle("She studied secretly because as a woman, you couldn’t have access to higher education")
 }

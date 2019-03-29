@@ -11,6 +11,7 @@ class MainPresenter(private val view: View) {
 
   fun init() {
     view.show(eventsProvider.getBirthDate())
+    view.show(curiositiesProvider.getWarsawStudies())
   }
 
   interface View {
