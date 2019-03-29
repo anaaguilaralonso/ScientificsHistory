@@ -8,4 +8,6 @@ class EventsProvider {
 
   fun getBirthDate() = applyStyle("[1867] Warsaw. Birth")
 
+  fun getMigration() = applyStyle("[1891] Depart to France")
+
 }
