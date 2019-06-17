@@ -14,4 +14,6 @@ class EventsProvider {
 
   fun getSecondUniversityDegree() = applyStyle("[1894] Mathematics degree. Second of promotion")
 
+  fun getMarried() = applyStyle("[1895] She came back to Paris. She married with Pierre Curie")
+
 }
