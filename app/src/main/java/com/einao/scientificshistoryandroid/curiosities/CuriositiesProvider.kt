@@ -22,5 +22,5 @@ class CuriositiesProvider {
     applyStyle("She started working in the industrial laboratory of Professor Lippmann")
 
   fun getScientificInvestigation() =
-    applyStyle("She began her scientific career with an investigation of the magnetic properties of different steels")
+    applyStyle("She began her scientific career with an investigation of the magnetic properties of different steels. She met Pierre Curie in the laboratory")
 }
