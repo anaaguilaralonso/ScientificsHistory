@@ -16,6 +16,7 @@ class MainPresenter(private val view: View) {
     view.show(curiositiesProvider.getHowSheUsedToStudy())
     view.show(eventsProvider.getFirstDegree())
     view.show(curiositiesProvider.getFirstWork())
+    view.show(curiositiesProvider.getScientificInvestigation())
   }
 
   interface View {
