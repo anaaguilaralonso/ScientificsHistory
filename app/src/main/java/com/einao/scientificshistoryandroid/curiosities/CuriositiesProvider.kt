@@ -23,4 +23,7 @@ class CuriositiesProvider {
 
   fun getScientificInvestigation() =
     applyStyle("She began her scientific career with an investigation of the magnetic properties of different steels. She met Pierre Curie in the laboratory")
+
+  fun getPolandTravel() =
+    applyStyle("She returned to Poland with the hope of getting an academy job of her scientific speciality, but finally she refused the job because she wanted to stay closer to Pierre in Paris")
 }
