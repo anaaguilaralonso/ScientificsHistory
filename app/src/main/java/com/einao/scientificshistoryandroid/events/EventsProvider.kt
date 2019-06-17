@@ -12,4 +12,6 @@ class EventsProvider {
 
   fun getFirstDegree() = applyStyle("[1893] Physics degree")
 
+  fun getSecondUniversityDegree() = applyStyle("[1894] Mathematics degree. Second of promotion")
+
 }
