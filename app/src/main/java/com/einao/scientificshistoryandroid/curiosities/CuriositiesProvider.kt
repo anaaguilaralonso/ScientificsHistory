@@ -26,4 +26,8 @@ class CuriositiesProvider {
 
   fun getPolandTravel() =
     applyStyle("She returned to Poland with the hope of getting an academy job of her scientific speciality, but finally she refused the job because she wanted to stay closer to Pierre in Paris")
+
+  fun getPhysicsCathedra() =
+    applyStyle("She held the Physics cathedra in the University of Paris, becoming the first woman teaching in the university in the last 600 years of the institution’s history")
+
 }
