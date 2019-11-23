@@ -22,4 +22,6 @@ class EventsProvider {
 
   fun getSolvayCongress() = applyStyle("[1911] First woman being part of the Solvay Congress about radiation and quantums")
 
+  fun getDeath() = applyStyle("[1934] France. Death due to radiation exposure")
+
 }
