@@ -10,4 +10,6 @@ class EventsProvider {
 
   fun getMigration() = applyStyle("[1891] Depart to France")
 
+  fun getFirstDegree() = applyStyle("[1893] Physics degree")
+
 }
