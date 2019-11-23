@@ -20,4 +20,6 @@ class EventsProvider {
 
   fun getSecondNobelPrize() = applyStyle("[1910] Nobel Prize in Chemistry for discovering Polonio and Radio")
 
+  fun getSolvayCongress() = applyStyle("[1911] First woman being part of the Solvay Congress about radiation and quantums. She came across Albert Einstein in that Congress")
+
 }
