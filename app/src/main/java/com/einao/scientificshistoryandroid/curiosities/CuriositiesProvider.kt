@@ -17,4 +17,7 @@ class CuriositiesProvider {
 
   fun getHowSheUsedToStudy() =
     applyStyle("She studied for the day and taught at night. She survived with scarce resources and fainting from hunger")
+
+  fun getFirstWork() =
+    applyStyle("She started working in the industrial laboratory of Professor Lippmann")
 }
