@@ -20,6 +20,7 @@ class MainPresenter(private val view: View) {
     view.show(eventsProvider.getSecondUniversityDegree())
     view.show(curiositiesProvider.getPolandTravel())
     view.show(eventsProvider.getMarried())
+    view.show(eventsProvider.getFirstNobelPrize())
   }
 
   interface View {

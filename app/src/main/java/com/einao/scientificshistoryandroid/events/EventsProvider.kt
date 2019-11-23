@@ -16,4 +16,6 @@ class EventsProvider {
 
   fun getMarried() = applyStyle("[1895] She came back to Paris. She married with Pierre Curie")
 
+  fun getFirstNobelPrize() = applyStyle("[1903] Doctoral thesis with what she received the first Nobel Prize shared with her Pierre Curie and with Henri Becquerel")
+
 }
