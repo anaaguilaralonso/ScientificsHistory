@@ -18,4 +18,6 @@ class EventsProvider {
 
   fun getFirstNobelPrize() = applyStyle("[1903] Doctoral thesis with what she received the first Nobel Prize shared with her Pierre Curie and with Henri Becquerel")
 
+  fun getSecondNobelPrize() = applyStyle("[1910] Nobel Prize in Chemistry for discovering Polonio and Radio")
+
 }
